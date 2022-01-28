@@ -1,1 +1,19 @@
-# Kanem's note This is an H1 header
+# Kanem's note 
+
+#<--h1 ##<--h2 ###<--h3 etc
+
+https://www.youtube.com/watch?v=eJojC3lSkwg 
+
+learn more about markdown command.
+
+
+## Summary
+This repository contains all of the notes taken by [Kanem](https://github.com/kanemds/readme.git) for the Lighthouse Labs Web Development Bootcamp.
+
+*Week 1
+
+  *Day 1
+  
+  1. Item one
+  2. Item two
+  3. Item three
