@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=eJojC3lSkwg
 learn more about markdown command.
 
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Also Markdown cheatsheet
 ## Summary
 This repository contains all of the notes taken by [Kanem](https://github.com/kanemds/readme.git) for the Lighthouse Labs Web Development Bootcamp.
 
